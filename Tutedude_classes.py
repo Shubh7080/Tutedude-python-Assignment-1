@@ -1,5 +1,3 @@
-num1 = 10
-num2 = 20
 
 num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
@@ -36,7 +34,6 @@ age = int(input("enter your age: "))
 
 current_age = year - age
 print("You were born in the year:", current_age)
-
 
 
 
